@@ -24,15 +24,18 @@ Here are step by step instructions on how to get FitTrack running:
    git clone https://github.com/dgborges03/fitTrack-website.git
 
 2. Navigate to the project directory:
+   ```bash
    cd final-project mainGit
 
-3. Install the required packages:
+4. Install the required packages:
+   ```bash
    npm install
 
-4. Initialize node.js
+6. Initialize node.js:
+   ```bash
    node app.js
 
-5. Start the application by opening public/login.html in your default browser
+8. Start the application by opening public/login.html in your default browser
 
 ### Author
 - Donavan Borges - dgborges03
