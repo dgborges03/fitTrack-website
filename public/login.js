@@ -3,7 +3,7 @@
  * CS 132 Spring 2024
  * Date: June 19, 2024
  * 
- * Client-side JavaScript for managing user authentication on the FitLog application.
+ * Client-side JavaScript for managing user authentication on the FitTrack application.
  */
 
 (function() {

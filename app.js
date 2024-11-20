@@ -3,7 +3,7 @@
  * CS 132 Spring 2024
  * Date: June 4, 2024
  * 
- * Sever-side Javascript for the my FitLog applicaiton. It is an API created
+ * Sever-side Javascript for the my FitTrack applicaiton. It is an API created
  * to handle users' login and registration and workout logger and management.
  */
 
